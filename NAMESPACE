@@ -1,5 +1,5 @@
 import(shiny)
 import(testthat)
-export(test_launcher)
+export(runthat)
 export(HtmlReporter)
 exportClasses(HtmlReporter)

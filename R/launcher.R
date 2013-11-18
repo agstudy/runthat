@@ -1,4 +1,4 @@
 
-test_launcher <- function ()
+runthat <- function ()
 	shiny::runApp(system.file('shinyapp', 
 														package='runthat'))
