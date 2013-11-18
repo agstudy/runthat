@@ -1,10 +1,14 @@
 Package: runthat
 Type: Package
-Title: What the package does (short line)
+Title: Test runner frontend package using shiny for R "testthat" tests.
 Version: 1.0
 Date: 2013-11-14
-Author: Who wrote it
+Authors@R: c(person("Amine", "Gassem", role = c("aut", "cre"),
+                     email = "contact@ag-study.com"),
+              person("Najmeddine", "Nouri", role = c("aut", "cre"),
+              email = "najm.no@gmail.com"))
+Author: Amine GASSEM and Najmeddine NOURI
 Imports: shiny,testthat
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Maintainer: Amine GASSEM <contact@ag-study.com> and Najmeddine NOURI <najm.no@gmail.com> 
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPL  + file LICENSE
